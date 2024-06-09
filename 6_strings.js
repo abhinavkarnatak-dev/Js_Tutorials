@@ -1,7 +1,7 @@
 const name = "Abhinav"
 const repoCount = 2
 
-// String interpolation
+// String interpolation - use ``
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
 
