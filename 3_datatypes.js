@@ -10,6 +10,6 @@ let undefinedState; // undefined/value not assigned
 // BigInt for large number
 // symbol for uniqueness
 
-// object (null is a typeof object)
+// objects (null is a typeof object) are like dictionary (key value pair)
 
 console.log(typeof age); // Tells the type of datatype
