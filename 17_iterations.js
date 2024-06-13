@@ -17,6 +17,7 @@ while (i<=10) {
 
 console.log("---------------------------------------------");
 
+//do-while loop
 let j = 1
 do {
     console.log(j);
